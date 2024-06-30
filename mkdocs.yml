@@ -33,4 +33,5 @@ extra_javascript:
 extra:
   homepage: /
 plugins:
+  - search
   - git-authors
